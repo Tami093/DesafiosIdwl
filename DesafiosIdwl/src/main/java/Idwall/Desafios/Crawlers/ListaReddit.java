@@ -28,7 +28,7 @@ public class ListaReddit {
 		
 		boolean upvote;
 		for (int i = 0; i < upvotes.size(); i++) {
-			if (!(upvotes.get(i).equals("�"))) {
+			if (!(upvotes.get(i).equals("•"))) {
 				upvote = upvotes.get(i).contains("k");
 				if (upvote || Integer.parseInt(upvotes.get(i)) >= 5000) {
 					System.out.println("Upvotes: " + upvotes.get(i) + "\n" 
