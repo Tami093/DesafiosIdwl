@@ -2,12 +2,10 @@
 
 ## Plataforma
 Java 8
+Netbeans 8.2
 
 ## Dependências
 * Jsoup 1.11.3
-
-## Execução
-Executar mvm install para instalar as dependências.
 
 ## Descrição da solução
 Para desenvolvimento do desafio de crawlers parte 1 foi necessário aprender sobre a biblioteca Jsoup.
